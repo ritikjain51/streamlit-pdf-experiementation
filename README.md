@@ -6,6 +6,7 @@ emoji: 🚀
 colorFrom: purple
 colorTo: gray
 pinned: true
+app_file: app.py
 ---
 
 ## Next Steps
