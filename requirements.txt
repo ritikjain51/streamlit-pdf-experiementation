@@ -1,0 +1,7 @@
+langchain
+openai
+faiss
+chroma
+streamlit
+streamlit-extras
+streamlit-chat
