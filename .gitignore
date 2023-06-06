@@ -1,0 +1,6 @@
+.Chroma
+.chroma
+*.ipynb
+*.pyc
+__pycache__
+.faiss
