@@ -5,3 +5,4 @@ streamlit
 streamlit-extras
 streamlit-chat
 faiss-cpu
+pypdf
